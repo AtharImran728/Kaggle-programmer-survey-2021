@@ -13,9 +13,9 @@ This project will explore the findings of the Kaggle Programmer Survey 2021 to p
 
 
 ### Sources
- The data for this project is the [Kaggle Programmer Survey 2021](https://www.kaggle.com/code/paultimothymooney/2021-kaggle-data-science-machine-learning-survey/data?select=kaggle_survey_2021_responses.csv), which is a publicly available dataset. The survey collects data on a variety of topics, including programming languages, experience, compensation, and education.
+ The data for this project is the [Kaggle Programmer Survey 2021](https://github.com/AtharImran728/Kaggle-programmer-survey-2021/blob/main/kaggle2021-short.csv), which is a publicly available dataset. The survey collects data on a variety of topics, including programming languages, experience, compensation, and education.
 
- Below is first few rows of Data set:
+ Below is the first few rows of the Data set:
 
  | experience_coding | python_user | r_user | sql_user | most_used | compensation |
 |---|---|---|---|---|---|
